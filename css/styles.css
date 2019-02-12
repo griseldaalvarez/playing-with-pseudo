@@ -1,0 +1,24 @@
+/* container{
+  height: 300px;
+  background-color: green;
+  padding: 25px;
+}
+
+.top:last-child{
+  color: green;
+} */
+
+/* the above was not working */
+
+
+/* .before:after{
+  content: "trying out Pseduo.";
+  color: green;
+} */
+
+.layers{
+  width: 300px;
+  margin: 0 auto;
+  background-color: green;
+  padding: 1em;
+}
